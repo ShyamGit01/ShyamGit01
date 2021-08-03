@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShyamGit01
 - 👀 I’m interested in coding, Web development, UI design
-- 🌱 I’m currently learning node js
+- 🌱 I’m currently learning MEAN stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on shyamasundars43@gmail.com
 
